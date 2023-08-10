@@ -25,9 +25,9 @@ Running Tests
 To execute the automated tests, meticulously follow these steps:
 
 Command	Description
-1. Clone Repository git clone 
+1. Clone Repository => git clone 
 
-2. Navigate to Directory cd login_automation_testing
+2. Navigate to Directory => cd login_automation_testing
 
 3. Install Dependencies =>  npm install
 4. Run Tests for Chrome  = > npm run testcafe chrome tests/login.js 
