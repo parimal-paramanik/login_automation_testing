@@ -1,4 +1,4 @@
-Automated Testing Documentation for SDLMS Login Process
+#Automated Testing Documentation for SDLMS Login Process
 Overview
 Automated testing plays a pivotal role in ensuring the dependability, functionality, and efficiency of the SDLMS (DeepThought Learning Management System) login process. This comprehensive documentation elucidates the meticulous testing approach, delineates test cases, discusses encountered challenges, and furnishes lucid instructions for executing the tests through the TestCafe framework.
 Introduction
@@ -56,6 +56,17 @@ npm run testcafe chrome tests/login.js
 Run tests for Microsoft Edge:
 
 npm run testcafe edge tests/login.js
+
+
+Running Tests
+To execute the automated tests, meticulously follow these steps:
+
+Command	Description
+Clone Repository	git clone https://github.com/your-username/sdlms-testing.git
+Navigate to Directory	cd sdlms-testing
+Install Dependencies	npm install
+Run Tests for Chrome	npm run testcafe chrome tests/login.js
+Run Tests for Edge	npm run testcafe edge tests/login.js
 
 
 
