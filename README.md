@@ -23,10 +23,11 @@ Running Tests
 To execute the automated tests, meticulously follow these steps:
 
 Command	Description
-Clone Repository git clone : => 
-Navigate to Directory ==========cd login_automation_testing=============
+1. Clone Repository git clone 
 
-Install Dependencies  ====== 	npm install===================
-Run Tests for Chrome =========	   npm run testcafe chrome tests/login.js ===========
-Run Tests for Edge	=========   npm run testcafe edge tests/login.js ============
+2. Navigate to Directory cd login_automation_testing
+
+3. Install Dependencies =>  npm install
+4. Run Tests for Chrome  = > npm run testcafe chrome tests/login.js 
+5. Run Tests for Edge	=>  npm run testcafe edge tests/login.js
 
