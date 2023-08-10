@@ -23,13 +23,10 @@ Running Tests
 To execute the automated tests, meticulously follow these steps:
 
 Command	Description
-Clone Repository================
-Navigate to Directory ========== 	cd login_automation_testing
-Install Dependencies  ====== 	npm install
-Run Tests for Chrome =========	   npm run testcafe chrome tests/login.js
-Run Tests for Edge	=========   npm run testcafe edge tests/login.js
+Clone Repository git clone : => 
+Navigate to Directory ==========cd login_automation_testing=============
 
+Install Dependencies  ====== 	npm install===================
+Run Tests for Chrome =========	   npm run testcafe chrome tests/login.js ===========
+Run Tests for Edge	=========   npm run testcafe edge tests/login.js ============
 
-
-Conclusion
-The tenets of automated testing, embraced through the adept utilization of TestCafe, underpin a reliable and efficient strategy for scrutinizing the SDLMS login process. Through this documentation, which encapsulates testing approaches, concrete test cases, and lucid instructions for test execution, our aim is to elevate the caliber and stability of the SDLMS platform. This, in turn, enriches the educational journey for users.
