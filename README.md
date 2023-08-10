@@ -22,51 +22,12 @@ The testing journey was unimpeded by significant challenges. The TestCafe framew
 Running Tests
 To execute the automated tests, meticulously follow these steps:
 
-Clone the repository.
-
-Access the project directory through the terminal.
-
-Install essential project dependencies by executing:
-
-npm install
-Launch tests for Chrome 
-
-npm run testcafe chrome tests/login.js
-Or,
-
-
-initiate tests for Microsoft Edge:
-
-
-npm run testcafe edge tests/login.js
-Getting Started
-Clone the repository:
-
-
-Navigate to the project directory:
-cd sdlms-testing
-Install project dependencies:
-npm install
-Run tests for Chrome:
-
-npm run testcafe chrome tests/login.js
-
-
-
-Run tests for Microsoft Edge:
-
-npm run testcafe edge tests/login.js
-
-
-Running Tests
-To execute the automated tests, meticulously follow these steps:
-
 Command	Description
-Clone Repository	git clone https://github.com/your-username/sdlms-testing.git
-Navigate to Directory	cd sdlms-testing
-Install Dependencies	npm install
-Run Tests for Chrome	npm run testcafe chrome tests/login.js
-Run Tests for Edge	npm run testcafe edge tests/login.js
+Clone Repository================
+Navigate to Directory ========== 	cd login_automation_testing
+Install Dependencies  ====== 	npm install
+Run Tests for Chrome =========	   npm run testcafe chrome tests/login.js
+Run Tests for Edge	=========   npm run testcafe edge tests/login.js
 
 
 
