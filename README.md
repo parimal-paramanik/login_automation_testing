@@ -47,11 +47,11 @@ Getting Started
 Clone the repository:
 Navigate to the project directory:cd login_automation_testing
 install project dependencies:npm install
-Run tests for Chrome:
-npm run testcafe chrome tests/login.js
+Run tests for Chrome . npm run testcafe chrome tests/login.js
 
-Run tests for Microsoft Edge:
-npm run testcafe edge tests/login.js
+
+Run tests for Microsoft Edge. npm run testcafe edge tests/login.js
+
 Conclusion
 Automated testing using TestCafe provides a reliable and efficient means of validating the SDLMS login process. By documenting the testing approach, test cases, and instructions for running tests, this documentation aims to enhance the quality and stability of the SDLMS platform, contributing to an enriched learning experience for users.
 
